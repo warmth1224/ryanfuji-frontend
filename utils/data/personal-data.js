@@ -6,7 +6,7 @@ export const personalData = {
   email: 'worldwizad0303@gmail.com',
   phone: '+14074369174',
   address: 'Osaka, Japan',
-  github: 'https://github.com/caraX0',
+  github: 'https://github.com/firstninja111',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/masayoshi-yamada-7bba82372/',
   twitter: 'https://twitter.com/said7388',
